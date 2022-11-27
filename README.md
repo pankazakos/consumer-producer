@@ -1,7 +1,7 @@
-compile:
+# compile
 make
 
-run:
+# run
 make run
 
 # consumer-producer
